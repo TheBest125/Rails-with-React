@@ -1,5 +1,7 @@
 # Rails React
 
+Made by KevinBruyne
+
 Sample of Rails React WebApp using Rails as the ReastAPI and React as FrontEnd.
 
 ### Comming Soon ...
